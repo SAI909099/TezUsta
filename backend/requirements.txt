@@ -1,0 +1,4 @@
+Django>=5.2,<5.3
+djangorestframework>=3.16,<3.17
+psycopg[binary]>=3.2,<3.3
+Pillow>=11.2,<12
